@@ -1,0 +1,15 @@
+html {
+  color: #373737;
+  overflow: hidden;
+}
+body {
+  overflow: hidden;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  color: #6b9eee;
+}
